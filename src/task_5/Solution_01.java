@@ -6,5 +6,6 @@ package task_5;
 public class Solution_01 {
     public static void main(String[] args) {
 
+        
     }
 }
