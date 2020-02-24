@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab191cde-e213-430f-b49f-19d530ab921d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/META-INF/beginer.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/META-INF/beginer.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_1/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_1/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_1/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_1/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_2/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_2/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/Sergey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_3/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_3/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_3/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_3/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_2/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_2/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_2/Sergey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_3/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_3/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_4/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_4/Solution_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_4/Solution_01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y8MqIIdw7TxaEkmEWnFI6vwPqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="Application.Solution_01">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_3.App" />
+      <module name="beginer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_1.App" />
+      <module name="beginer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_2.App" />
+      <module name="beginer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_4.Solution" />
+      <module name="beginer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_4.Solution_01" />
+      <module name="beginer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_01" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab191cde-e213-430f-b49f-19d530ab921d" name="Default Changelist" comment="" />
+      <created>1580808380994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580808380994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1582324064701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582324064701" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582320006747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582320006747" />
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582324842747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582324842747" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582327963991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582327963991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582327963990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582327963990" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582327963990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582327963990" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582327963991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582327963991" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+https://javarush.ru/groups/posts/1949-znakomstvo-s-klassami-napisanie-sobstvennihkh-klassov-konstruktorih
+https://javarush.ru/groups/posts/1950-metodih-ikh-parametrih-vzaimodeystvie-i-peregruzka
