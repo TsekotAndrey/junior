@@ -1,0 +1,5 @@
+https://javarush.ru/quests/lectures/questsyntax.level05.lecture01
+https://javarush.ru/quests/lectures/questsyntax.level05.lecture03
+https://javarush.ru/quests/lectures/questsyntax.level05.lecture04
+https://javarush.ru/quests/lectures/questsyntax.level05.lecture06
+https://javarush.ru/quests/lectures/questsyntax.level05.lecture08
