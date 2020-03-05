@@ -15,8 +15,6 @@ public class Solution_03 {
 class Cat3 {
     private String catName;
     private String catAge;
-    private String ageCat;
-    private String nameCat;
 
     public Cat3(String name, String age) {
         catName = name;
@@ -24,11 +22,11 @@ class Cat3 {
     }
 
     public String getCatName() {
-        return nameCat;
+        return catName;
     }
 
     public String getCatAge() {
-        return ageCat;
+        return catAge;
     }
 }
 

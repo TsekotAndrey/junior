@@ -1,0 +1,3 @@
+https://javarush.ru/quests/lectures/questsyntax.level04.lecture07
+https://javarush.ru/quests/lectures/questsyntax.level04.lecture11
+https://javarush.ru/quests/lectures/questsyntax.level04.lecture08

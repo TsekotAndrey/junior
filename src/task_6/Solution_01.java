@@ -13,10 +13,10 @@ public class Solution_01 {
 }
 
 class Cat1 {
-    String catName;
     String catAge;
+    String catName;
 
-    public Cat1(String age, String name) {
+    public Cat1(String name, String age) {
         catName = name;
         catAge = age;
     }

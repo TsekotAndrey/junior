@@ -22,11 +22,11 @@ class Cat2 {
     }
 
     public String getCatName() {
-        return catAge;
+        return catName;
     }
 
     public String getCatAge() {
-        return catName;
+        return catAge;
     }
 }
 
