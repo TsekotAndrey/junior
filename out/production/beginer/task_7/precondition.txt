@@ -1,0 +1,4 @@
+https://javarush.ru/quests/lectures/questsyntax.level04.lecture04
+https://javarush.ru/groups/posts/ternarnyj-operator
+https://foxford.ru/wiki/informatika/ternarnyy-operator-v-java
+https://javarush.ru/groups/posts/operator-switch-v-java
