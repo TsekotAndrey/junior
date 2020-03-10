@@ -11,8 +11,8 @@ public class App {
         System.out.println("Expected:  5. Actual: " + calculator.getMax(1, 5)); // Найти ошибку и исправить
         System.out.println("Expected:  5. Actual: " + calculator.getMaxFromThree(1, 2, 5)); // Найти ошибку и исправить
         System.out.println("Expected:  3. Actual: " + calculator.calculate(1, 2, "+")); // Найти ошибку и исправить
-        System.out.println("Expected:  3. Actual: " + calculator.calculate(1, 2, "*")); // Найти ошибку и исправить
-        System.out.println("Expected:  3. Actual: " + calculator.calculate(1, 2, "/")); // Найти ошибку и исправить
+        System.out.println("Expected:  2. Actual: " + calculator.calculate(1, 2, "*")); // Найти ошибку и исправить
+        System.out.println("Expected:  1. Actual: " + calculator.calculate(2, 2, "/")); // Найти ошибку и исправить
 
 
     }
