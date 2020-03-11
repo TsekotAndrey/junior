@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab191cde-e213-430f-b49f-19d530ab921d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/task_7/precondition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_7/precondition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_1/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_1/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_1/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_1/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_2/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/beginer/task_2/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/beginer/task_2/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_7/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_7/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +46,6 @@
   <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +136,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
@@ -184,38 +190,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582324064701" />
-    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583153274192">
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583926454117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583153274192" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583926454117" />
     <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582324842747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582324842747" />
-    <state width="1366" height="201" key="GridCell.Tab.0.bottom" timestamp="1583837009065">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583401371502" />
-    <state width="1366" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
-    <state width="1366" height="201" key="GridCell.Tab.0.center" timestamp="1583837009065">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583401371501" />
-    <state width="1366" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
-    <state width="1366" height="201" key="GridCell.Tab.0.left" timestamp="1583837009065">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583401371501" />
-    <state width="1366" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
-    <state width="1366" height="201" key="GridCell.Tab.0.right" timestamp="1583837009065">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583401371501" />
-    <state width="1366" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583399035444">
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1583952836016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583399035444" />
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583952836016" />
+    <state width="1366" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
+    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1583952836016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583952836016" />
+    <state width="1366" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
+    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1583952836015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583952836015" />
+    <state width="1366" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
+    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1583952836016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583952836016" />
+    <state width="1366" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583837009065" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583926351343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583926351343" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1583837150723">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
