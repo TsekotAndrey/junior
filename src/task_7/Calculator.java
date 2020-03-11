@@ -1,7 +1,5 @@
 package task_7;
-
 public class Calculator {
-
     public int getMinFromTreeValues(int first, int second, int third) {
         if (first < second) {
             if (first < third) {
@@ -17,7 +15,6 @@ public class Calculator {
             }
         }
     }
-
     public int getMinFromFourValues(int first, int second, int third, int fourth) {
         if (first < second) {
             if (first < third)
@@ -52,7 +49,6 @@ public class Calculator {
         int secondMax = Math.max(second, third);
         return Math.max(firstMax, secondMax);
     }
-
     public int calculate(int firstValue, int secondValue, String operation) {
         int res = 0;
         switch (operation) {
