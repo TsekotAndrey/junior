@@ -1,5 +1,7 @@
 package task_7;
+
 public class Calculator {
+
     public int getMinFromTreeValues(int first, int second, int third) {
         if (first < second) {
             if (first < third) {
@@ -39,7 +41,6 @@ public class Calculator {
         return 0;
     }
 
-
     public int getMax(int first, int second) {
         return Math.max(first, second);
     }
@@ -65,4 +66,5 @@ public class Calculator {
         }
         return res;
     }
+
 }
